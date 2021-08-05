@@ -1,0 +1,8 @@
+.main__image {
+  text-align: center;
+}
+
+.main__image img {
+  height: 240px;
+  width: 240px;
+}
